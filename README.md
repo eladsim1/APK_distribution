@@ -13,10 +13,13 @@
 
 | | |
 |---|---|
-| **גרסה** | 1.2.0 |
-| **הורדה** | [events-reminder-1.2.0.apk](https://github.com/eladsim1/APK_distribution/releases/download/events-reminder-v1.2.0/events-reminder-1.2.0.apk) |
-| **גודל** | 35.6 MB (37,286,394 bytes) |
-| **SHA-256** | `870915220fb161a0712f1fb30afd5c2f55b2a1190ee81c6627ab17170c8f1ff4` |
+| **גרסה** | 1.3.0 |
+| **הורדה** | [events-reminder-1.3.0.apk](https://github.com/eladsim1/APK_distribution/releases/download/events-reminder-v1.3.0/events-reminder-1.3.0.apk) |
+| **גודל** | 35.6 MB (37,302,878 bytes) |
+| **SHA-256** | `ccedc9e3ef712142632deeffdd750d783704d0413bbf382e31178bc2417eb965` |
+
+[כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות
+קודמות נשארות זמינות להורדה.
 
 ## התקנה
 
@@ -26,6 +29,8 @@
 
 **דרישות:** אנדרואיד 7.0 ומעלה. הקבצים רצים על טלפונים 32 ו-64 סיביות
 כאחד.
+
+**שדרוג:** מתקינים מעל הגרסה הקיימת, והנתונים נשמרים.
 
 ## אם משהו משתבש
 
@@ -47,11 +52,11 @@
 ב-Windows, ב-PowerShell:
 
 ```powershell
-Get-FileHash .\events-reminder-1.2.0.apk -Algorithm SHA256
+Get-FileHash .\events-reminder-1.3.0.apk -Algorithm SHA256
 ```
 
 בלינוקס או ב-Mac:
 
 ```bash
-shasum -a 256 events-reminder-1.2.0.apk
+shasum -a 256 events-reminder-1.3.0.apk
 ```
