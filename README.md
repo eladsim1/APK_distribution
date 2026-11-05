@@ -32,6 +32,20 @@
 | **גודל** | 36.1 MB (37,905,071 bytes) |
 | **SHA-256** | `6983543d45a165289994dfb29721c2ceec21e672c239f56a69b685e21042e92d` |
 
+<!-- video-downloader:start - written by publish.ps1 in the app's repository -->
+### הורדת סרטונים
+
+מורידה סרטונים מ-YouTube, Facebook, Instagram, TikTok ו-X לתיקייה שבוחרים בטלפון: משתפים לאפליקציה את הקישור - גם כמה קישורים יחד, או ייצוא של צ'אט מווטסאפ, ומה שכבר הורד מדולג. אפשר לבחור איכות עד 4K או שמע בלבד (MP3), ולשלוח סרטון לסטטוס בווטסאפ מחולק לחלקים באורך שבוחרים. בהורדה הראשונה האפליקציה מורידה פעם אחת את רכיבי ההורדה וההמרה (כ-40MB), ומכאן היא מתעדכנת לבד.
+
+| | |
+|---|---|
+| **גרסה** | 1.5.2 |
+| **הורדה** | [video-downloader-1.5.2.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-1.5.2.apk) |
+| **גודל** | 28.7 MB (30,140,320 bytes) |
+| **SHA-256** | `b91b99d4ee7d4d4e559060db93d35869a18c66fa430941138b9ec6c164748ebf` |
+| **64 ביט בלבד** | [video-downloader-arm64-1.5.2.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-arm64-1.5.2.apk) · 16.2 MB (16,962,780 bytes) · `04f20774af947c04f313d4f1f40c8e38c36c0450903a8b616214c2051dcdec0a` |
+<!-- video-downloader:end -->
+
 [כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות
 קודמות נשארות זמינות להורדה.
 
