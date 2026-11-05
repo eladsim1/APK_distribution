@@ -39,11 +39,11 @@
 
 | | |
 |---|---|
-| **גרסה** | 1.5.2 |
-| **הורדה** | [video-downloader-1.5.2.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-1.5.2.apk) |
-| **גודל** | 28.7 MB (30,140,320 bytes) |
-| **SHA-256** | `b91b99d4ee7d4d4e559060db93d35869a18c66fa430941138b9ec6c164748ebf` |
-| **64 ביט בלבד** | [video-downloader-arm64-1.5.2.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-arm64-1.5.2.apk) · 16.2 MB (16,962,780 bytes) · `04f20774af947c04f313d4f1f40c8e38c36c0450903a8b616214c2051dcdec0a` |
+| **גרסה** | 1.6 |
+| **הורדה** | [video-downloader-1.6.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6/video-downloader-1.6.apk) |
+| **גודל** | 28.7 MB (30,142,340 bytes) |
+| **SHA-256** | `bcb21e6548574de0d4c918b3a717a26655a6c47f1031d5364f87e8870d6b7b6b` |
+| **64 ביט בלבד** | [video-downloader-arm64-1.6.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6/video-downloader-arm64-1.6.apk) · 16.2 MB (16,964,800 bytes) · `5449b5ca69c56cc9da5dda4780ff2ed4898210c8568bfddb5e28f12d70be0087` |
 <!-- video-downloader:end -->
 
 [כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות

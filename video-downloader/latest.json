@@ -1,17 +1,17 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.5.2",
-    "notes":  "- כפתור סטטוס: מחלק את הסרטון לחלקים של 15, 30, 60 או 90 שניות ופותח את ווטסאפ עם כולם. שם בוחרים \"הסטטוס שלי\" ושולחים.\n- מעכשיו האפליקציה מתעדכנת מכאן. מגרסה קודמת צריך להתקין את הגרסה הזו פעם אחת ידנית.",
+    "versionCode":  9,
+    "versionName":  "1.6",
+    "notes":  "- לסטטוס בווטסאפ בתפריט השיתוף: משתפים סרטון מכל מקום (גלריה, ווטסאפ, קבצים), והוא מתחלק מיד לחלקים באורך שנקבע במסך הראשי ונפתח בווטסאפ. שם בוחרים \"הסטטוס שלי\" ושולחים.\n- במסך הראשי: בחירת אורך החלק (15, 30, 60 או 90 שניות). גם הכפתור \"סטטוס\" ברשימת ההורדות מציע את האורך הזה.",
     "files":  {
                   "arm64-v8a":  {
-                                    "name":  "video-downloader-arm64-1.5.2.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-arm64-1.5.2.apk",
-                                    "sha256":  "04f20774af947c04f313d4f1f40c8e38c36c0450903a8b616214c2051dcdec0a"
+                                    "name":  "video-downloader-arm64-1.6.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6/video-downloader-arm64-1.6.apk",
+                                    "sha256":  "5449b5ca69c56cc9da5dda4780ff2ed4898210c8568bfddb5e28f12d70be0087"
                                 },
                   "universal":  {
-                                    "name":  "video-downloader-1.5.2.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.5.2/video-downloader-1.5.2.apk",
-                                    "sha256":  "b91b99d4ee7d4d4e559060db93d35869a18c66fa430941138b9ec6c164748ebf"
+                                    "name":  "video-downloader-1.6.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6/video-downloader-1.6.apk",
+                                    "sha256":  "bcb21e6548574de0d4c918b3a717a26655a6c47f1031d5364f87e8870d6b7b6b"
                                 }
               }
 }
