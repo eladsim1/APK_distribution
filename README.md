@@ -46,6 +46,19 @@
 | **64 ביט בלבד** | [video-downloader-arm64-1.6.1.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6.1/video-downloader-arm64-1.6.1.apk) · 16.2 MB (16,965,040 bytes) · `6c392c0e975ed15d73474e6e2736a51fa7a960f8356f2a604bc600f35ea50f0e` |
 <!-- video-downloader:end -->
 
+<!-- karaoke:start - written by publish.ps1 in the app's repository -->
+### קריוקי
+
+מסירה את השירה משירים על הטלפון עצמו, בלי מחשב, ומציגה את המילים בזמן השירה, כשהמילה ששרים מתמלאת בצבע. בוחרים קובץ שמע או וידאו, או משתפים אותו לאפליקציה מכל אפליקציה אחרת. בשיר הראשון היא מורידה פעם אחת את מודל ההפרדה (59MB). המילים מגיעות מ-LRCLIB, כשיש שם גרסה מתוזמנת של אותה הקלטה, ואפשר לחפש אותן גם ביד. אפשר לשמור את הקריוקי בטלפון ולשתף אותו. **לטלפון 64 ביט, אנדרואיד 10 ומעלה.**
+
+| | |
+|---|---|
+| **גרסה** | 1.0 |
+| **הורדה** | [karaoke-1.0.apk](https://github.com/eladsim1/APK_distribution/releases/download/karaoke-v1.0/karaoke-1.0.apk) |
+| **גודל** | 20.0 MB (20,958,223 bytes) |
+| **SHA-256** | `1dfd83e530188f3a10491028aa8ea1c6fd140f3121e89fef7fd73af44bc85add` |
+<!-- karaoke:end -->
+
 [כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות
 קודמות נשארות זמינות להורדה.
 
