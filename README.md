@@ -59,6 +59,19 @@
 | **SHA-256** | `1dfd83e530188f3a10491028aa8ea1c6fd140f3121e89fef7fd73af44bc85add` |
 <!-- karaoke:end -->
 
+<!-- seder-limud:start - an HTML file, opened in a browser (not an APK) -->
+### סדר לימוד לאזכרה
+
+בונה חוברת «סדר לימוד בבית העלמין לעילוי נשמה» לאזכרה: מכניסים את שם הנפטר או הנפטרת ואת שם האם, ומקבלים חוברת עם ברכת בית העלמין, תפילה לפני הלימוד ואחריו, פתח אליהו, תהילים ומשניות לפי אותיות השם ואותיות נשמה, זוהר, קדיש, השכבה ופרידה מהקבר. שומרים אותה כ-PDF להדפסה או כקובץ Word. **זה לא APK ולא מתקינים אותו: מורידים את הקובץ ופותחים אותו בדפדפן (Chrome או Edge), בטלפון או במחשב.**
+
+| | |
+|---|---|
+| **גרסה** | 1.0 |
+| **הורדה** | [seder-limud-1.0.html](https://github.com/eladsim1/APK_distribution/releases/download/seder-limud-v1.0/seder-limud-1.0.html) |
+| **גודל** | 1.2 MB (1,306,703 bytes) |
+| **SHA-256** | `ac106635cefdc972b13f28f1004b080c5b55cfdd46846dab744f36e294967538` |
+<!-- seder-limud:end -->
+
 [כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות
 קודמות נשארות זמינות להורדה.
 
