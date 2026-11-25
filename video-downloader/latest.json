@@ -1,17 +1,17 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.6.1",
-    "notes":  "- טקסט שמגיע עם הסרטון (למשל הכיתוב שלו בצ\u0027אט) עובר לווטסאפ יחד עם החלקים, על החלק הראשון.",
+    "versionCode":  11,
+    "versionName":  "1.7",
+    "notes":  "- הסרה מוחקת עכשיו את הסרטון גם מהטלפון, אחרי שאלה: מחיקה, רק מהרשימה (הקובץ נשאר), או ביטול.\n- הכפתור \"סטטוס\" ברשימת ההורדות נקרא עכשיו אורך סטטוס.",
     "files":  {
                   "arm64-v8a":  {
-                                    "name":  "video-downloader-arm64-1.6.1.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6.1/video-downloader-arm64-1.6.1.apk",
-                                    "sha256":  "6c392c0e975ed15d73474e6e2736a51fa7a960f8356f2a604bc600f35ea50f0e"
+                                    "name":  "video-downloader-arm64-1.7.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-arm64-1.7.apk",
+                                    "sha256":  "cff73ede0e8678b9f2f63edf48baa1e24169c50749295ddf949654539022fca4"
                                 },
                   "universal":  {
-                                    "name":  "video-downloader-1.6.1.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.6.1/video-downloader-1.6.1.apk",
-                                    "sha256":  "bc889f3392a5244b02acb1163e1820b1f3e63a48ceab168df2e779bc6f364804"
+                                    "name":  "video-downloader-1.7.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-1.7.apk",
+                                    "sha256":  "e446d89a61399ec969da74e1d31154807fd50ae2df8ab3a81df349b85eff03c6"
                                 }
               }
 }
