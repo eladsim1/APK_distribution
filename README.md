@@ -66,10 +66,10 @@
 
 | | |
 |---|---|
-| **גרסה** | 1.0 |
-| **הורדה** | [seder-limud-1.0.html](https://github.com/eladsim1/APK_distribution/releases/download/seder-limud-v1.0/seder-limud-1.0.html) |
-| **גודל** | 1.2 MB (1,306,703 bytes) |
-| **SHA-256** | `ac106635cefdc972b13f28f1004b080c5b55cfdd46846dab744f36e294967538` |
+| **גרסה** | 1.1 |
+| **הורדה** | [seder-limud-1.1.html](https://github.com/eladsim1/APK_distribution/releases/download/seder-limud-v1.1/seder-limud-1.1.html) |
+| **גודל** | 1.2 MB (1,309,829 bytes) |
+| **SHA-256** | `a3c6abbceb0c2d1609a4f010bfc5e062e669b3a45a199386f14742b2b91ff46b` |
 <!-- seder-limud:end -->
 
 [כל הגרסאות](https://github.com/eladsim1/APK_distribution/releases) — גרסאות
