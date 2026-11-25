@@ -1,17 +1,18 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.7",
-    "notes":  "- הסרה מוחקת עכשיו את הסרטון גם מהטלפון, אחרי שאלה: מחיקה, רק מהרשימה (הקובץ נשאר), או ביטול.\n- הכפתור \"סטטוס\" ברשימת ההורדות נקרא עכשיו אורך סטטוס.",
+    "versionCode":  12,
+    "versionName":  "1.8",
+    "notes":  "- בדיקת עדכונים שמוצאת גרסה חדשה פותחת חלון במקום: הורדה והתקנה מתוך האפליקציה, או פתיחת דף הגרסה ב-GitHub והורדה משם.\n- בכרטיס העדכון שבראש המסך נוסף כפתור \"ב-GitHub\".",
     "files":  {
                   "arm64-v8a":  {
-                                    "name":  "video-downloader-arm64-1.7.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-arm64-1.7.apk",
-                                    "sha256":  "cff73ede0e8678b9f2f63edf48baa1e24169c50749295ddf949654539022fca4"
+                                    "name":  "video-downloader-arm64-1.8.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.8/video-downloader-arm64-1.8.apk",
+                                    "sha256":  "5c3bdd66787e39de14cd46782260455a9c69d0e4fdcab872804f4fcf7adf8ade"
                                 },
                   "universal":  {
-                                    "name":  "video-downloader-1.7.apk",
-                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-1.7.apk",
-                                    "sha256":  "e446d89a61399ec969da74e1d31154807fd50ae2df8ab3a81df349b85eff03c6"
+                                    "name":  "video-downloader-1.8.apk",
+                                    "url":  "https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.8/video-downloader-1.8.apk",
+                                    "sha256":  "3abba93778222a137ef7201826911301db3947f73cb6ddf6e119593f272c674d"
                                 }
-              }
+              },
+    "page":  "https://github.com/eladsim1/APK_distribution/releases/tag/video-downloader-v1.8"
 }

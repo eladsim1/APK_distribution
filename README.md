@@ -39,11 +39,11 @@
 
 | | |
 |---|---|
-| **גרסה** | 1.7 |
-| **הורדה** | [video-downloader-1.7.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-1.7.apk) |
-| **גודל** | 28.7 MB (30,144,524 bytes) |
-| **SHA-256** | `e446d89a61399ec969da74e1d31154807fd50ae2df8ab3a81df349b85eff03c6` |
-| **64 ביט בלבד** | [video-downloader-arm64-1.7.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.7/video-downloader-arm64-1.7.apk) · 16.2 MB (16,966,984 bytes) · `cff73ede0e8678b9f2f63edf48baa1e24169c50749295ddf949654539022fca4` |
+| **גרסה** | 1.8 |
+| **הורדה** | [video-downloader-1.8.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.8/video-downloader-1.8.apk) |
+| **גודל** | 28.7 MB (30,145,220 bytes) |
+| **SHA-256** | `3abba93778222a137ef7201826911301db3947f73cb6ddf6e119593f272c674d` |
+| **64 ביט בלבד** | [video-downloader-arm64-1.8.apk](https://github.com/eladsim1/APK_distribution/releases/download/video-downloader-v1.8/video-downloader-arm64-1.8.apk) · 16.2 MB (16,967,676 bytes) · `5c3bdd66787e39de14cd46782260455a9c69d0e4fdcab872804f4fcf7adf8ade` |
 <!-- video-downloader:end -->
 
 <!-- karaoke:start - written by publish.ps1 in the app's repository -->
